@@ -1,0 +1,2 @@
+bash
+./mvnw clean package
